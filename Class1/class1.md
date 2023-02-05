@@ -80,7 +80,7 @@
 
 > 4. That may be important for cases when we need to load a JavaScript library and then a script that depends on it.
 
-> 5. The defer attribute is ignored if the <script> tag has no src.
+> 5. The defer attribute is ignored if the script tag has no src.
 
 > 6. The defer attribute has no effect on module scripts — they defer by default.
 
